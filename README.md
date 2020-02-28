@@ -1,1 +1,2 @@
-# Computa-o-Grafica-2020-01
+# Computação Grafica 2020/01
+<h4> Lucas Cota Dornelas <h4>
