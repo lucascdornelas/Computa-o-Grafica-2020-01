@@ -6,11 +6,11 @@
 
 <p>Soil - Simple-OpenGL-Image-Library - é uma biblioteca utilizada para adicionar imagens em programas que usam OpenGL. GitHub</p>
 
-Instalando a biblioteca Soil:
+<h2>Instalando a biblioteca Soil:</h2>
     apt-get install libsoil-dev
-Adicionando a biblioteca no código:
-include <SOIL.h>
-Assim, a biblioteca já está referenciada e todas as suas funções já estão disponíveis no código. Contudo, para compilar o arquivo é necessário passar o parâmetro. 
+<h4>Adicionando a biblioteca no código:</h4>
+    include <SOIL.h>
+<h4>Assim, a biblioteca já está referenciada e todas as suas funções já estão disponíveis no código. Contudo, para compilar o arquivo é necessário passar o parâmetro.</h4> 
     gcc main.c - o main - lSOIL
 
 
