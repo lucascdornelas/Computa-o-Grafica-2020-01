@@ -4,7 +4,9 @@
 <h1>Tutorial: Como instalar e utilizar a biblioteca SOIL no Linux.</h1>
     <h3>Feito por Lucas Cota Dornelas. - 2020/01</h3>
 
-<p>Soil - Simple-OpenGL-Image-Library - é uma biblioteca utilizada para adicionar imagens em programas que usam OpenGL. GitHub</p>
+<p>Soil - Simple-OpenGL-Image-Library - é uma biblioteca utilizada para adicionar imagens em programas que usam OpenGL.</p> 
+
+[GitHub](https://github.com/littlstar/soil)
 
 <h2>Instalando a biblioteca Soil:</h2>
 
