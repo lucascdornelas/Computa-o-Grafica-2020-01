@@ -8,8 +8,9 @@
 
 <h2>Instalando a biblioteca Soil:</h2>
 ```sh
-    $ apt-get install libsoil-dev
+   $ apt-get install libsoil-dev
 ```
+
 <h4>Adicionando a biblioteca no código:</h4>
 ```sh
     $ include "SOIL.h"
