@@ -35,4 +35,8 @@ $ apt-get install libglew-dev
 ```sh    
 $ -lglut e  -lGL   
 ```
+Assim conseguimos testar o [codigo fonte](https://raw.githubusercontent.com/fegemo/cefet-cg-exemplos-opengl/master/textura-simples-soil/main.c) disponibilizado para testar o SOIL:
+
+
+
 
