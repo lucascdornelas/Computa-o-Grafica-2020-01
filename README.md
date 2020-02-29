@@ -10,7 +10,9 @@
 ```
 $ apt-get install libsoil-dev
 ```
-
+```
+Give examples
+```
 <h4>Adicionando a biblioteca no código:</h4>
 ```
 $ include "SOIL.h"
