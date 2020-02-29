@@ -9,7 +9,7 @@
 <h2>Instalando a biblioteca Soil:</h2>
     apt-get install libsoil-dev
 <h4>Adicionando a biblioteca no código:</h4>
-    include <SOIL.h>
+    <p>include <SOIL.h></p>
 <h4>Assim, a biblioteca já está referenciada e todas as suas funções já estão disponíveis no código. Contudo, para compilar o arquivo é necessário passar o parâmetro.</h4> 
     gcc main.c - o main - lSOIL
 
